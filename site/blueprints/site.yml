@@ -1,21 +1,25 @@
 title: Site
-preset: pages
-unlisted: true
+# preset: pages
+# unlisted: true
 
 
-fields:
-  style:
-    type: structure
-    columns:
-        CSS:
-            width: 1/2
-        name:
-            width: 1/2
+tabs:
+  Pages:
+    preset: pages
+    unlisted: true
+  Styles:
+    type: fields
     fields:
-        css:
+      styles:
+        type: structure
+        columns:
+          CSS:
+            width: 1/2
+          Name:
+            width: 1/2
+        fields:
+          css:
             type: files
             max: 1
-            # accept: text/css
-            # type: default
-        name:
+          name:
             type: text

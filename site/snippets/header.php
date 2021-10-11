@@ -27,9 +27,7 @@
 <select id="style">
 	<option value="none">Style : aucun</option>
 <?php 
-// using the `toStructure()` method, we create a structure collection
-$styles = $site->style()->toStructure();
-// we can then loop through the entries and render the individual fields
+$styles = $site->styles()->toStructure();
 foreach ($styles as $style): ?>
 	<option value="<?= $style->css()->toFiles()->first()->url() ?>">Style : <?= $style->name()->text() ?></option>
 <?php endforeach ?>

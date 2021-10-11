@@ -2,7 +2,7 @@ Title: Collecter et archiver
 
 ----
 
-Style:
+Styles:
 
 - 
   css:
