@@ -1,0 +1,9 @@
+title: Default File
+accept: true
+fields:
+  alt:
+    label: Alt Text
+    type: text
+  legend: 
+    label: Légende
+    type: text

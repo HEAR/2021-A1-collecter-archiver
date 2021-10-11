@@ -1,0 +1,5 @@
+Title: 1re page
+
+----
+
+Text: Ceci est une 1re page.

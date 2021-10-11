@@ -1,0 +1,14 @@
+Title: Collecter et archiver
+
+----
+
+Style:
+
+- 
+  css:
+    - style-loic.css
+  name: Rouge
+- 
+  css:
+    - style-vert.css
+  name: vert

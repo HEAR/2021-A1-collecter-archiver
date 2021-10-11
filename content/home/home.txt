@@ -1,0 +1,13 @@
+Title: Accueil
+
+----
+
+Speech-left: 
+
+----
+
+Speech-right: 
+
+----
+
+Text: 

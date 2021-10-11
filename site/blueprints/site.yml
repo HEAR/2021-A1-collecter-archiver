@@ -1,0 +1,21 @@
+title: Site
+preset: pages
+unlisted: true
+
+
+fields:
+  style:
+    type: structure
+    columns:
+        CSS:
+            width: 1/2
+        name:
+            width: 1/2
+    fields:
+        css:
+            type: files
+            max: 1
+            # accept: text/css
+            # type: default
+        name:
+            type: text
