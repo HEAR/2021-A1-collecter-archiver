@@ -1,5 +1,5 @@
-# Hic et nunc
+# Collecter archiver
 
-Communication graphique, 2021.
+2021, site internet basé sur le CMS Kirby.
 
-Pour la biennale Exemplaires.
+Pour l’approche collecter/archiver.
